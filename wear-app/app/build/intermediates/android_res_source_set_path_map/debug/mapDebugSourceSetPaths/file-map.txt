@@ -1,0 +1,8 @@
+com.stoplosswrist.wear.app-pngs-0 C:\Users\nnui\Downloads\stoploss-wrist\wear-app\app\build\generated\res\pngs\debug
+com.stoplosswrist.wear.app-updated_navigation_xml-1 C:\Users\nnui\Downloads\stoploss-wrist\wear-app\app\build\generated\updated_navigation_xml\debug
+com.stoplosswrist.wear.app-packageDebugResources-2 C:\Users\nnui\Downloads\stoploss-wrist\wear-app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.stoplosswrist.wear.app-packageDebugResources-3 C:\Users\nnui\Downloads\stoploss-wrist\wear-app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.stoplosswrist.wear.app-debug-4 C:\Users\nnui\Downloads\stoploss-wrist\wear-app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.stoplosswrist.wear.app-debug-5 C:\Users\nnui\Downloads\stoploss-wrist\wear-app\app\src\debug\res
+com.stoplosswrist.wear.app-main-6 C:\Users\nnui\Downloads\stoploss-wrist\wear-app\app\src\main\res
+gradleHome-0 C:\Users\nnui\.gradle
